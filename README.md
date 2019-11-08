@@ -1,5 +1,5 @@
 ### Date created
-Nov 8 - 2019
+8 - 11 - 2019
 
 ### Project Title
 Udacity Bike-Share Project.
@@ -14,4 +14,4 @@ chicago.csv
 
 
 ### Credits
-For Udacity saudi team
+For Udacity saudi team and gitub
