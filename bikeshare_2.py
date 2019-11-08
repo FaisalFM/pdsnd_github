@@ -203,7 +203,7 @@ def display_data(city):
         if row_data != 'yes':
             break
         print(print(df.iloc[i:n]))
-
+# will add 5 for the rows
         row_data = input("\n-Do you want to see next 5 lines of  raw data?\n   (Yes or No )\n").lower()
         i += 5
         n += 5
